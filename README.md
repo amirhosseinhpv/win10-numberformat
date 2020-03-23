@@ -2,9 +2,11 @@
 ================================================
 
 Q: Standard digits and native digits disappeared from regional setting and
-unable to make change anymore for digits !
+unable to make change anymore for digits! How to fix it?
 
-A: Use this small tool to apply setting
+A: Use this small tool to apply setting :)
+
+Download at : [https://github.com/amirhosseinhpv/win10-numberformat/releases](https://github.com/amirhosseinhpv/win10-numberformat/releases)
 
 \------------------
 
